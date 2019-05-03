@@ -1,0 +1,7 @@
+﻿  Lab_4.cpp
+c:\users\s_nova\source\repos\lab_4\lab_4\lab_4.cpp(50): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\s_nova\source\repos\lab_4\lab_4\lab_4.cpp(51): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\s_nova\source\repos\lab_4\lab_4\lab_4.cpp(52): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\s_nova\source\repos\lab_4\lab_4\lab_4.cpp(108): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_4\lab_4\lab_4.cpp(136): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_4.vcxproj -> C:\Users\S_Nova\source\repos\Lab_4\Debug\Lab_4.exe
