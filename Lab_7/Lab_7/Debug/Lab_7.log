@@ -1,0 +1,8 @@
+﻿  Lab_7.cpp
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(25): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\s_nova\source\repos\lab_7\lab_7\lab_7.cpp(137): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_7.vcxproj -> C:\Users\S_Nova\source\repos\Lab_7\Debug\Lab_7.exe
